@@ -1,36 +1,4 @@
 # Digital Money House Frontend
----
-
-![Digital Money APP](./src/assets/img/dashboard.png)
-
----
-### Tabla de contenido
-
-- [Descripción](#descripción)
-- [Como instalar](#como-instalar)
-- [Autor](#autor)
-
----
-
-## Descripción
-
-Temática: Billetera Digital (Digital Money House  )
-
-#### Tecnologías
-
-- React.js
-- React Context API
-- Typescript
-- TailwindCSS
-- Material UI
-- React Credit Card 
-- React Router Dom V6
-- JSON Server
-- JSON Server Auth
-
-[Volver arriba](#digital-money-house-frontend)
-
----
 
 ## Como Instalar
 
@@ -42,12 +10,6 @@ Temática: Billetera Digital (Digital Money House  )
 
 `yarn install`
 
-### Correr Backend fake para ver datos mock
-`npm run fake-api` 
-
-ó
-
-`yarn run fake-api`
 
 ### Correr Proyecto Frontend
 
@@ -57,16 +19,8 @@ Temática: Billetera Digital (Digital Money House  )
 
 `yarn run start`
 
-### Debe tener un JWT válido para iniciar sesión
+### Debe tener el backend corriendo para que se conecte a la API
 
-`La aplicacion le enviará a la sesión de inicio de sesión al momento de que expire el actual`
+https://github.com/SebaGoni/Digital-Money-House.git
 
-[Volver arriba](#digital-money-house-frontend)
 
----
-
-## Autor
-
-- Propiedad de Digital House ❤️​
-
-[Volver arriba](#digital-money-house-frontend)
