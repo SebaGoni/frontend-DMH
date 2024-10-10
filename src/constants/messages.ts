@@ -3,7 +3,7 @@ import { ActivityType } from '../types';
 
 export const ERROR_MESSAGES: Record<string, string> = {
   INVALID_EMAIL: 'Correo electrónico inválido',
-  INVALID_PASSWORD: 'Contraseña inválida',
+  INVALID_PASSWORD: 'Debe tener un número, una letra may. y una min.',
   PASSWORDS_DO_NOT_MATCH: 'Las contraseñas no coinciden',
   INVALID_NAME: 'Nombre inválido',
   INVALID_PHONE: 'Teléfono inválido',
